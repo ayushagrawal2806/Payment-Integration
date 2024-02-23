@@ -195,7 +195,7 @@ var options = {
     currency: 'INR',
     name: "Ayush",
     description: 'Test Payment',
-    image: 'https://i.vimeocdn.com/portrait/45437250_640x640?subrect=19%2C19%2C490%2C490&r=cover',
+    image: 'https://th.bing.com/th/id/R.29ff80e1b872c3a34502081bb24ddc77?rik=h8tKL%2fwBLXoG%2fQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_504768.png&ehk=QoBgGBjkzTJNk0pSWlKqqP5cBkdE2%2b593jcUJXVPBCg%3d&risl=&pid=ImgRaw&r=0',
     handler: function(response) {
         alert('Payment successful: ' + response.razorpay_payment_id);
     },
