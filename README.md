@@ -30,7 +30,7 @@ This project is a simple demonstration of integrating Razorpay payment gateway i
 
 2. Razorpay API for payment processing.
 
-![Screenshot 2024-02-13 151831](https://github.com/DeepaNikade/Team-13-Geekathon-/assets/149095832/21619c77-7931-40ee-9453-ad6c28829c78)
+![Screenshot 2024-02-23 221604](https://github.com/ayushagrawal2806/Payment-Integration/assets/149095832/1ca43c7f-a005-4896-846d-62ca133e2d89)
 
 
 ## Usage
